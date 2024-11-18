@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SAbdulMujafar98/English-Dictionary.git/static/css/main.17242c34.css",
+    "main.js": "/SAbdulMujafar98/English-Dictionary.git/static/js/main.df68df7c.js",
+    "static/js/453.d76d4eb4.chunk.js": "/SAbdulMujafar98/English-Dictionary.git/static/js/453.d76d4eb4.chunk.js",
+    "index.html": "/SAbdulMujafar98/English-Dictionary.git/index.html",
+    "main.17242c34.css.map": "/SAbdulMujafar98/English-Dictionary.git/static/css/main.17242c34.css.map",
+    "main.df68df7c.js.map": "/SAbdulMujafar98/English-Dictionary.git/static/js/main.df68df7c.js.map",
+    "453.d76d4eb4.chunk.js.map": "/SAbdulMujafar98/English-Dictionary.git/static/js/453.d76d4eb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17242c34.css",
+    "static/js/main.df68df7c.js"
+  ]
+}
