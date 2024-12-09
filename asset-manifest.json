@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SAbdulMujafar98/English-Dictionary.git/static/css/main.17242c34.css",
-    "main.js": "/SAbdulMujafar98/English-Dictionary.git/static/js/main.df68df7c.js",
-    "static/js/453.d76d4eb4.chunk.js": "/SAbdulMujafar98/English-Dictionary.git/static/js/453.d76d4eb4.chunk.js",
-    "index.html": "/SAbdulMujafar98/English-Dictionary.git/index.html",
-    "main.17242c34.css.map": "/SAbdulMujafar98/English-Dictionary.git/static/css/main.17242c34.css.map",
-    "main.df68df7c.js.map": "/SAbdulMujafar98/English-Dictionary.git/static/js/main.df68df7c.js.map",
-    "453.d76d4eb4.chunk.js.map": "/SAbdulMujafar98/English-Dictionary.git/static/js/453.d76d4eb4.chunk.js.map"
+    "main.css": "/English-Dictionary/static/css/main.17242c34.css",
+    "main.js": "/English-Dictionary/static/js/main.19451493.js",
+    "static/js/453.d76d4eb4.chunk.js": "/English-Dictionary/static/js/453.d76d4eb4.chunk.js",
+    "index.html": "/English-Dictionary/index.html",
+    "main.17242c34.css.map": "/English-Dictionary/static/css/main.17242c34.css.map",
+    "main.19451493.js.map": "/English-Dictionary/static/js/main.19451493.js.map",
+    "453.d76d4eb4.chunk.js.map": "/English-Dictionary/static/js/453.d76d4eb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17242c34.css",
-    "static/js/main.df68df7c.js"
+    "static/js/main.19451493.js"
   ]
 }
